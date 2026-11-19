@@ -54,9 +54,10 @@ Conta com painéis interativos no Power BI para acompanhamento diário, facilita
 Esse sistema tem como objetivo realizar o cálculo automatizado da produtividade de todo o time logístico, considerando descontos por erros, faltas e multas.
 Desenvolvido em Python, HTML e JavaScript, com integração direta ao banco de dados SQL, garantindo consolidação, padronização e automação de processos.
 
-🧩 Sistema em desenvolvimento:
+🧩 Sistema em desenvolvimento
 
-TMS – Sistema de Gerenciamento de Transporte
+ <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/c93aec7f-a53d-4f35-a965-3716ae313c7c" />
+TMS - Sistema de Gerenciamento de Transporte
 Atualmente em desenvolvimento, o sistema foi criado para administrar toda a nossa frota, tanto os veículos próprios quanto os locados. Ele reúne em um só lugar o acompanhamento de todos os custos do transporte, como diárias, pedágios, combustível, salários, seguros, locação, depreciação e manutenção, entre outros. Com essas informações centralizadas, teremos uma visão completa e precisa do setor, o que nos permitirá identificar oportunidades de redução de custos e de melhoria contínua da operação.
 
 -------------------------------------------------------------------------------------------------
