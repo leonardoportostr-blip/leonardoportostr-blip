@@ -42,7 +42,7 @@ Busco unir minha experiência prática em logística ao poder da programação, 
 </h1>
 </h1>
 <div> 
-💼 Sistema em uso:
+<div>💼 Sistema em uso: </div>
 
 <div> 📊 Sistema de Gestão de Frota Locada </div>
 
