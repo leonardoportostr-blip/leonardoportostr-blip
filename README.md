@@ -41,8 +41,6 @@ Busco unir minha experiência prática em logística ao poder da programação, 
 
 </h1>
 </h1>
-
-<div>
   
 💼 Sistema em uso:
 
@@ -56,7 +54,6 @@ Desenvolvido em Python, HTML e JavaScript, com integração direta ao banco de d
 
 🧩 Sistema em desenvolvimento
 
- <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/c93aec7f-a53d-4f35-a965-3716ae313c7c" />
 TMS - Sistema de Gerenciamento de Transporte
 Atualmente em desenvolvimento, o sistema foi criado para administrar toda a nossa frota, tanto os veículos próprios quanto os locados. Ele reúne em um só lugar o acompanhamento de todos os custos do transporte, como diárias, pedágios, combustível, salários, seguros, locação, depreciação e manutenção, entre outros. Com essas informações centralizadas, teremos uma visão completa e precisa do setor, o que nos permitirá identificar oportunidades de redução de custos e de melhoria contínua da operação.
 
