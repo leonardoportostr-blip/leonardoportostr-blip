@@ -50,7 +50,6 @@ Conta com painéis interativos no Power BI para acompanhamento diário, facilita
 ⚙️ Sistema de Produtividade Logística
 Esse sistema tem como objetivo realizar o cálculo automatizado da produtividade de todo o time logístico, considerando descontos por erros, faltas e multas.
 Desenvolvido em Python, HTML e JavaScript, com integração direta ao banco de dados SQL, garantindo consolidação, padronização e automação de processos.
-<div>
 
 🧩 Sistema em desenvolvimento:
 
